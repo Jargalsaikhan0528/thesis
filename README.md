@@ -100,7 +100,7 @@ Notebooks are designed to run in numerical order. Each builds on output produced
 
 ## Cost note for `05c_gpt4o_scoring.ipynb`
 
-This notebook calls the OpenAI API once per filing. The thesis evaluates GPT-4o on a stratified subsample of 2,000 filings; at `gpt-4o-2024-05-13` pricing, the full subsample run cost approximately USD 10–15.
+This notebook calls the OpenAI API once per filing. The thesis evaluates GPT-4o on a stratified subsample of 2,000 filings; at `gpt-4o-2024-05-13` pricing, the full subsample run cost approximately 20 USD.
 
 ## Data availability
 
