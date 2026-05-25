@@ -2,7 +2,7 @@
 
 Replication code for the undergraduate thesis:
 
-> Gansuld, J. (2026). *Identifying downside market reactions to financial text: A comparison of sentiment methods and large language models.* Central European University, Bachelor of Science in Data Science and Society.
+> Gansuld, J. (2026). *Identifying downside market reactions to financial text: A comparison of sentiment methods and large language models.* Central European University, Bachelor of Arts in Data Science and Society.
 
 This repository contains all code used to construct the sample, retrieve and clean SEC 8-K filings, compute abnormal returns, run three sentiment scoring methods (Loughran-McDonald dictionary, FinBERT, GPT-4o), and produce the empirical results and robustness checks reported in the thesis.
 
